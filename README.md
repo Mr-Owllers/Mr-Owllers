@@ -1,8 +1,8 @@
-- Hi, I’m @Mr-Owllers (He/Him)
-- I like coding and listening to music (lil nas x and conan gray are my fav)
-- I don't know how to play any outdoor game :(
-- I have a [**discord server**](https://discord.gg/KNa7xAZ2xH)
-- I also have a [**youtube channel**](https://www.youtube.com/channel/UCxwmzTRETfLimI012CJoGnA)
+- Hi, I’m owllycantspel
+- I like to code
+- I know a bit of html, css, c#, python and js but i mostly code in python
+- I have a [**discord server**](https://discord.gg/KNa7xAZ2xH) (it's a ded server)
+- I also have a [**youtube channel**](https://www.youtube.com/channel/UCxwmzTRETfLimI012CJoGnA) (I don't upload that much tho)
 
 <!---
 Mr-Owllers/Mr-Owllers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
