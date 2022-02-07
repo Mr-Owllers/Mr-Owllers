@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-owllers&label=Profile%20views&color=0e75b6&style=flat" alt="mr-owllers" /> </p>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-owllers&show_icons=true&theme=gruvbox&locale=en" alt="mr-owllers" /></p>
+
 - 🔭 I’m currently working on **VeryGeeky_Bot (a reddit bot)**
 
 - 🌱 I’m currently learning **Coffeescript**
@@ -22,7 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-owllers&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mr-owllers" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-owllers&show_icons=true&theme=gruvbox&locale=en" alt="mr-owllers" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-owllers&theme=dark" alt="mr-owllers" /></p>
 
