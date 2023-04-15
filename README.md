@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hoi im a young dev who likes trees<br>espacially birch trees<br>i also like obsidian (the rock), music and the number 11 (or anything like 11. example- 222)<br>i know python, a bit of C and Rust, web develompent and im currently learning C++<br>you can contact me through mr.owllers@gmail.com (i wish i could change the id) or discord<br>i also have a youtube channel (but i havent uploaded anything yet)
+Hi! im a young developer<br>i know python, a bit of C and Rust, web develompent and im currently learning C++<br>you can contact me through mr.owllers@gmail.com (i wish i could change the id) or discord<br>i also have a youtube channel (but i havent uploaded anything yet)
 
 
 ## 🌐 Socials:
