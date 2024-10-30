@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, im just a young developer who like make cool little projects<br>i know multiple programming languages and im mainly good at web development<br>you can contact me through mr.owllers@gmail.com, discord or the other contacts listed in my [website](https://owllycodes.com/contacts)<br>i also have a youtube channel (still planning what to upload)
+Hey there, im just a young developer who like make cool little projects<br>i know multiple programming languages and im mainly good at web development<br>you can contact me through mr.owllers@gmail.com, discord or the other contacts listed in my [website](https://owlly.xyz/contacts)<br>i also have a youtube channel (still planning what to upload)
 
 
 ## 🌐 Socials:
