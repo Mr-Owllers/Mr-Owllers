@@ -13,7 +13,7 @@ just a simple teen who likes to do stuff like coding, n making music, and much m
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Owllers&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mr-Owllers&theme=highcontrast&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Mr-Owllers&theme=nord&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mr-Owllers&icon=4&color=9)](https://visitcount.itsvg.in)
