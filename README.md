@@ -18,8 +18,9 @@ just a simple teen who likes to do stuff like coding, n making music, and much m
 ---
 [![](https://visitcount.itsvg.in/api?id=Mr-Owllers&icon=4&color=9)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Owlly9) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/owlly) 
+## 💰 You can help me by Donating
+<!--  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Owlly9) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/owlly) -->
+[<img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="NowPayment" style="width:200px; height:auto;">](https://nowpayments.io/donation/owlly)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
